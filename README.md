@@ -2,7 +2,6 @@
 
 I am a AI/Computer Vision Engineer. I enjoy working on solving challenging tasks in AI/Computer Vision for Robotics.
 
-Currently I am a Vision Group Lead in AI Department at the [NEURA Robotics](https://neura-robotics.com/). 
 <!--
 **manhha1402/manhha1402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
