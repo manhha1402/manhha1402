@@ -1,6 +1,6 @@
 ### Hello! My name is Manh-Ha Hoang
 
-I am a AI/Computer Vision Engineer. I enjoy working on solving challenging tasks in AI/Computer Vision for Robotics.
+Hello! I'm Manh-Ha Hoang, an AI and Robotics Software Engineer passionate about tackling complex challenges in robotics and building intelligent systems.
 
 <!--
 **manhha1402/manhha1402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
